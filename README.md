@@ -20,7 +20,7 @@
 ## 🧠 About me
 
 ```python
-class developer:
+class Developer:
     def __init__(self):
         self.name = "Alexandre Magno"
         self.role = "FullStack Developer"
